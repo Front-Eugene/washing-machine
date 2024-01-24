@@ -1,0 +1,244 @@
+Uri: https://fonts.googleapis.com/css2?family=Alegreya+SC&family=Alike+Angular&family=Inter:wght@400;600;700;800&display=swap
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/alegreyasc/v25/taiOGmRtCJ62-O0HhNEa-a6o.ttf
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\s\alegreyasc\v25\taiOGmRtCJ62-O0HhNEa-a6o.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alikeangular/v25/3qTrojWunjGQtEBlIcwMbSoI3kM.ttf
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\s\alikeangular\v25\3qTrojWunjGQtEBlIcwMbSoI3kM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://washmashine.seilmax.of.by/
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\index.htm
+Content Type: text/html
+
+Uri: https://washmashine.seilmax.of.by/agreement.html
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\agreement.html
+Content Type: text/html
+
+Uri: https://washmashine.seilmax.of.by/css/media.css
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\css\media.css
+Content Type: text/css
+
+Uri: https://washmashine.seilmax.of.by/css/reset.css
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\css\reset.css
+Content Type: text/css
+
+Uri: https://washmashine.seilmax.of.by/css/slick-theme.css
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\css\slick-theme.css
+Content Type: text/css
+
+Uri: https://washmashine.seilmax.of.by/css/slick.css
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\css\slick.css
+Content Type: text/css
+
+Uri: https://washmashine.seilmax.of.by/css/style.css
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\css\style.css
+Content Type: text/css
+
+Uri: https://washmashine.seilmax.of.by/dogovor_vozvrata.html
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\dogovor_vozvrata.html
+Content Type: text/html
+
+Uri: https://washmashine.seilmax.of.by/fonts/JejuMyeongjo-Regular.ttf
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\fonts\JejuMyeongjo-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://washmashine.seilmax.of.by/fonts/slick.eot
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://washmashine.seilmax.of.by/fonts/slick.svg
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://washmashine.seilmax.of.by/fonts/slick.ttf
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\fonts\slick.ttf
+Content Type: application/octet-stream
+
+Uri: https://washmashine.seilmax.of.by/fonts/slick.woff
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\fonts\slick.woff
+Content Type: font/woff
+
+Uri: https://washmashine.seilmax.of.by/images/abs1.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\abs1.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/ajax-loader.gif
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://washmashine.seilmax.of.by/images/bg-1.jpg
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\bg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://washmashine.seilmax.of.by/images/bg-1m.jpg
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\bg-1m.jpg
+Content Type: image/jpeg
+
+Uri: https://washmashine.seilmax.of.by/images/bg-1p.jpg
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\bg-1p.jpg
+Content Type: image/jpeg
+
+Uri: https://washmashine.seilmax.of.by/images/bg-5.jpg
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\bg-5.jpg
+Content Type: image/jpeg
+
+Uri: https://washmashine.seilmax.of.by/images/bg-5m.jpg
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\bg-5m.jpg
+Content Type: image/jpeg
+
+Uri: https://washmashine.seilmax.of.by/images/bg-5p.jpg
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\bg-5p.jpg
+Content Type: image/jpeg
+
+Uri: https://washmashine.seilmax.of.by/images/bl2-img.jpg
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\bl2-img.jpg
+Content Type: image/jpeg
+
+Uri: https://washmashine.seilmax.of.by/images/bl4-img.jpg
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\bl4-img.jpg
+Content Type: image/jpeg
+
+Uri: https://washmashine.seilmax.of.by/images/ch.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\ch.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/d1.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\d1.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/d2.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\d2.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/d3.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\d3.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/e1.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\e1.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/e2.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\e2.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/e3.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\e3.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/e4.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\e4.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/e5.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\e5.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/e6.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\e6.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/f1.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\f1.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/f2.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\f2.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/f3.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\f3.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/f4.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\f4.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/f5.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\f5.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/f6.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\f6.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/f7.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\f7.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/f8.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\f8.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/f9.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\f9.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/i1.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\i1.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/im.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\im.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/prod.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\prod.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/images/r1.jpg
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\r1.jpg
+Content Type: image/jpeg
+
+Uri: https://washmashine.seilmax.of.by/images/r2.jpg
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\r2.jpg
+Content Type: image/jpeg
+
+Uri: https://washmashine.seilmax.of.by/images/r3.jpg
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\r3.jpg
+Content Type: image/jpeg
+
+Uri: https://washmashine.seilmax.of.by/images/time.png
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\images\time.png
+Content Type: image/png
+
+Uri: https://washmashine.seilmax.of.by/js/jquery.min.js
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://washmashine.seilmax.of.by/js/maskedinput.js
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\js\maskedinput.js
+Content Type: application/javascript
+
+Uri: https://washmashine.seilmax.of.by/js/showcase.js
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\js\showcase.js
+Content Type: application/javascript
+
+Uri: https://washmashine.seilmax.of.by/js/slick.min.js
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://washmashine.seilmax.of.by/politics.html
+File Name: C:\Users\Eugene\Desktop\7\washmashine.seilmax.of.by\politics.html
+Content Type: text/html
+
